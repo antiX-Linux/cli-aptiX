@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Command line apt-based package manager
+Name[am]=የ ትእዛዝ መስመር apt-based የ ጥቅል አስተዳዳሪ
+Name[ca]=Gestor de paquets per línia d'ordres
+Name[de]=Kommandozeilen- und apt-basierte Paketverwaltung
+Name[el]=Command line apt-based package manager
+Name[fr]=Gestionnaire de paquet en ligne de commande basé sur apt
+Name[it]=Gestione pacchetti APT a riga di comando
+Name[nl]=Kommandoregel apt-gebaseerde pakketinstalleerder
+Name[pt]=Gestor de aplicações (Terminal)
+Name[sv]=Apt-baserad pakethanterare för kommandolinjen
+Comment=Search for and install Debian-based packages
+Comment[am]=የ ተገጠመ የ Debian-based ጥቅሎች መፈለጊያ
+Comment[ca]=Cerca i instal·la paquets de tipus Debian
+Comment[de]=Debian-basierte Pakete suchen und installieren
+Comment[el]=Αναζητήστε και εγκαταστήστε πακέτα που βασίζονται στο Debian
+Comment[fr]=Recherche et installe des paquets basés sur Debian
+Comment[it]=Cerca e installa pacchetti software basati su Debian
+Comment[nl]=Zoek naar en installeer Debian-gebaseerde pakketten
+Comment[pt]=Procurar e instalar facilmente pacotes/aplicações, através do apt, através do Terminal
+Comment[sv]=Sök och installera Debian-baserade paket
+Icon=system-software-install
+Type=Application
+Terminal=true
+Exec=sudo /usr/local/bin/cli-aptiX --pause
+Categories=System;
+NoDisplay=False
